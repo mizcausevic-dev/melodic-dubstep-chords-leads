@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+md01,Cracked Glass,pack-local equal-tempered pitch collection,C,140,4/4,480,32,61440,midi/md01-cracked-glass/md01-cracked-glass-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+md02,Distant Valley,pack-local equal-tempered pitch collection,D#,140,4/4,480,32,61440,midi/md02-distant-valley/md02-distant-valley-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+md03,Violet Fall,pack-local equal-tempered pitch collection,F#,140,4/4,480,32,61440,midi/md03-violet-fall/md03-violet-fall-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+md04,Warm Beam,pack-local equal-tempered pitch collection,C#,140,4/4,480,32,61440,midi/md04-warm-beam/md04-warm-beam-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

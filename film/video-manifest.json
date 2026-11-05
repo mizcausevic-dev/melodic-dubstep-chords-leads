@@ -1,0 +1,26 @@
+{
+  "title": "Melodic Dubstep Chords and Leads",
+  "study": "md01",
+  "bpm": 140,
+  "source_audio": "preview/melodic-dubstep-chords-leads-simple-synth-preview.mp3",
+  "source_audio_sha256": "a09a2715eb071044db7c29f592f8349d76f4aa83baf63699e9575da27e873758",
+  "source_midi": "midi/md01-cracked-glass/md01-cracked-glass-combined.mid",
+  "source_midi_sha256": "95bcdd6d652b3299ef5b2098194b879a18361afccbfd45aef761c79d2cc6db8c",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "fd833112b1d2fbb736c093ea216a18eca2c99768e29791a9a54ad3106353269f",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "8fde83fb5d3706116bb18d917ff7062aa13aa69510fdec6eadbc3a366939c2d9",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "ee7ebab48e65b64c6f9f69f1d1c420fae3e5a660c6a9f0e4033c6b13b5d8a41f",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
