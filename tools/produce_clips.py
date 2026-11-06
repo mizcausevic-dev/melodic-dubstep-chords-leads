@@ -79,6 +79,9 @@ def main():
                             local = offset + shift
                             if local < END:
                                 notes.append((local, min(duration, END-local), pitch + (12 if rank < inversion else 0), min(127, velocity + variation * 2)))
+                elif kind == "principal_motif" and study["id"] == 'md02' and variation == 1:
+                    # A four-bar answer using the study's documented chord tones.
+                    notes = [(240, 360, 75, 79), (1080, 480, 78, 84), (2160, 360, 85, 86), (3000, 600, 78, 78), (4200, 480, 75, 81), (5460, 360, 78, 76), (6540, 780, 85, 83)]
                 else:
                     start = (8 + variation*4) * release.BAR_TICKS
                     for event in score[kind]:

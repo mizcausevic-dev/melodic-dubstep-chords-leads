@@ -57,3 +57,7 @@ To regenerate media after rebuilding, preserve the source image and run `python 
 ## Focused clips
 
 This pack also includes 32 four-bar standalone MIDI clips in `clips/`, indexed in `catalog/clip-index.csv` and included in the main ZIP. These are derived from the pack's harmonic and melodic material. The download contains 60 MIDI files in total. Clip integrity results are in `checks/clip-validation.json`.
+
+## Melody clip revision
+
+The current archive includes revised four-bar melody clip. The full studies and previews are unchanged. See [REVISION.md](REVISION.md).

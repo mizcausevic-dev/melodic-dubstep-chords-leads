@@ -54,7 +54,7 @@
     {
       "path": "catalog/clip-index.csv",
       "bytes": 3932,
-      "sha256": "800854c47cc13d88bd9e433a0964e7969ac0bdfda3fabd4f20f49be87dc08bbb"
+      "sha256": "ed16f3ce893da84db2494a387d4465e877e34b6604dee3690922d62e361336c5"
     },
     {
       "path": "catalog/drum-map.csv",
@@ -179,7 +179,7 @@
     {
       "path": "clips/md02-melody-02.mid",
       "bytes": 130,
-      "sha256": "fa07f957f382b115abfb41e487fe879eead0e8efa16d42d5ba71f7a341b7ff3c"
+      "sha256": "b27341944929cda7cd3a9bf05128550cf6baa406e3817f068b92bdc8fcc6b5d8"
     },
     {
       "path": "clips/md02-melody-03.mid",
@@ -278,8 +278,8 @@
     },
     {
       "path": "downloads/melodic-dubstep-chords-leads-midi.zip",
-      "bytes": 32456,
-      "sha256": "010a225e9da6f30b797e31b70037feb44436fe804d986895fadc94b0853c1e26"
+      "bytes": 32494,
+      "sha256": "905b090355e87c3047a7c53292288122eb1b403ff35f67a5d6fc0cff5afc54c9"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -313,8 +313,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9572,
-      "sha256": "8aef8bdbf793bf90ebd8463c14d0ce374f10025828341008cbe06837c822069a"
+      "bytes": 9819,
+      "sha256": "8726f61ca152096a639654e1d525e0868ca33e6c79e92c584444fc5d7dfb1f5c"
     },
     {
       "path": "midi/md01-cracked-glass/chord_pulse.mid",
@@ -468,8 +468,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 3928,
-      "sha256": "7d579a2780e24492ac8b291615ddd871f51a482e40ec992c386bcd2a6b1af7e2"
+      "bytes": 4090,
+      "sha256": "cca02cccdd3c9784abda55e37152d98333cba8098376695850b6f341e2a6a758"
+    },
+    {
+      "path": "REVISION.md",
+      "bytes": 307,
+      "sha256": "d9dcd47d07e32ca27f61d244d5331897bb995897063e066f50b42c016976b02c"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -513,8 +518,8 @@
     },
     {
       "path": "tools/produce_clips.py",
-      "bytes": 8917,
-      "sha256": "ad2e152e68bd16762e94a8bc617ebec6f5d111f209bd8aa9bd887c08899f1d8f"
+      "bytes": 9267,
+      "sha256": "cf180defec23f68e9032fcf5afbc6fea63b2b9879f3c9b406b8b337c0cb7ca0e"
     },
     {
       "path": "tools/render_motion_preview.py",
