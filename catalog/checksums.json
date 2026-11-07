@@ -278,8 +278,8 @@
     },
     {
       "path": "downloads/melodic-dubstep-chords-leads-midi.zip",
-      "bytes": 32494,
-      "sha256": "905b090355e87c3047a7c53292288122eb1b403ff35f67a5d6fc0cff5afc54c9"
+      "bytes": 33481,
+      "sha256": "eb461b68b41a5d2b6d38552a4c5403236510ce27da89ef82324b77a3374214bd"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -313,8 +313,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9819,
-      "sha256": "8726f61ca152096a639654e1d525e0868ca33e6c79e92c584444fc5d7dfb1f5c"
+      "bytes": 10009,
+      "sha256": "90be4c3061e7ebcec25163c6e1f691e35d6149730d1e93fa3abc20f1c1802665"
     },
     {
       "path": "midi/md01-cracked-glass/chord_pulse.mid",
@@ -457,6 +457,11 @@
       "sha256": "249d25293f757612677134dd349c1bed7aca5dc951b0196dc549ad72f38087b5"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/melodic-dubstep-chords-leads-simple-synth-preview.mp3",
       "bytes": 1330408,
       "sha256": "a09a2715eb071044db7c29f592f8349d76f4aa83baf63699e9575da27e873758"
@@ -468,8 +473,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4090,
-      "sha256": "cca02cccdd3c9784abda55e37152d98333cba8098376695850b6f341e2a6a758"
+      "bytes": 4205,
+      "sha256": "7f61262b290b27a897cb29019605800cbb704b456f43016070a16980c571abee"
     },
     {
       "path": "REVISION.md",

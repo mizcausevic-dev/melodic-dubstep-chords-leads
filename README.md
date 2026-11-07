@@ -61,3 +61,7 @@ This pack also includes 32 four-bar standalone MIDI clips in `clips/`, indexed i
 ## Melody clip revision
 
 The current archive includes revised four-bar melody clip. The full studies and previews are unchanged. See [REVISION.md](REVISION.md).
+
+## MIDI buyer license
+
+See [MIDI Buyer License v1.0](MIDI-BUYER-LICENSE-v1.0.txt), included in the MIDI download.
